@@ -1,0 +1,169 @@
+{
+  "main": {
+    "id": "7ea0b9ecc1ff6164",
+    "type": "split",
+    "children": [
+      {
+        "id": "cbf692b7483073f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b2a57e9758a25476",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DBMS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "19e60cf6fffb720c",
+    "type": "split",
+    "children": [
+      {
+        "id": "1bf55b5b898e8955",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf1d3e54b7ffd0a1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "96049f8515329811",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ea679a39e64e921b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "c7cf05173f3887be",
+    "type": "split",
+    "children": [
+      {
+        "id": "0fca79d53450e617",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca8626251c71c7de",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DBMS.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "14fa06bca87f63c1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "DBMS.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7bf21de8fc46d8f2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5e278e13f7f713b6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "DBMS.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "b2a57e9758a25476",
+  "lastOpenFiles": [
+    "Docker.md",
+    "JavaCore.md",
+    "Spring.md",
+    "Микросервисы.md",
+    "DBMS.md",
+    "Concurrency.md",
+    "Patterns.md",
+    "ORM.md",
+    "JVM/ЖЗНЦКЛ ДЖВМ.md",
+    "images/Pasted image 20240422100205.png",
+    "CV/Проекты.md",
+    "images/Pasted image 20240419143348.png",
+    "images",
+    "images/Pasted image 20240419143324.png",
+    "JVM/Без названия.md",
+    "CV",
+    "JVM"
+  ]
+}
