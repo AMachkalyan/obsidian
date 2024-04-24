@@ -8,18 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b2a57e9758a25476",
+            "id": "c5b6759125bce8c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DBMS.md",
+                "file": "Скриннинг/JVM/ЖЗНЦКЛ ДЖВМ.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ee3f74e1b92cec69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Скриннинг/ORM.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7c1822e0e5bcdfcb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Скриннинг/Docker,CICD,Kuber.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DBMS.md",
+                "file": "Скриннинг/Docker,CICD,Kuber.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DBMS.md",
+                "file": "Скриннинг/Docker,CICD,Kuber.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DBMS.md"
+                "file": "Скриннинг/Docker,CICD,Kuber.md"
               }
             }
           }
@@ -146,24 +171,28 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "b2a57e9758a25476",
+  "active": "7c1822e0e5bcdfcb",
   "lastOpenFiles": [
-    "Docker.md",
-    "JavaCore.md",
-    "Spring.md",
-    "Микросервисы.md",
-    "DBMS.md",
-    "Concurrency.md",
-    "Patterns.md",
-    "ORM.md",
-    "JVM/ЖЗНЦКЛ ДЖВМ.md",
-    "images/Pasted image 20240422100205.png",
-    "CV/Проекты.md",
-    "images/Pasted image 20240419143348.png",
-    "images",
-    "images/Pasted image 20240419143324.png",
+    "Camunda BPMN.md",
+    "Скриннинг/ORM.md",
+    "Other",
+    "Скриннинг/Шлак.md",
+    "Скриннинг/Микросервисы.md",
+    "Скриннинг/Spring.md",
+    "Скриннинг",
+    "Скриннинг/JVM/ЖЗНЦКЛ ДЖВМ.md",
+    "Скриннинг/Concurrency.md",
+    "Скриннинг/Docker,CICD,Kuber.md",
+    "Скриннинг/JavaCore.md",
+    "Скриннинг/Patterns.md",
+    "Скриннинг/DBMS.md",
+    "Скриннинг/CV/Проекты.md",
+    "Скриннинг/images/Pasted image 20240422100205.png",
+    "Скриннинг/images/Pasted image 20240419143348.png",
+    "Скриннинг/images",
+    "Скриннинг/images/Pasted image 20240419143324.png",
     "JVM/Без названия.md",
-    "CV",
-    "JVM"
+    "Скриннинг/CV",
+    "Скриннинг/JVM"
   ]
 }
